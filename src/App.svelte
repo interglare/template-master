@@ -12,7 +12,7 @@
 <main>
 	<h1>Hello {name}!</h1>
 	<h2>{y}</h2>
-	<button on:click="{add}">ADD</button>
+	<button on:click="{add}">PLUS ONE</button>
 	<Nested answer={name}/>
 </main>
 
